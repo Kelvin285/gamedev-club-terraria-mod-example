@@ -1,0 +1,15 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	GamedevClubSword: {
+		DisplayName: Gamedev Club Sword
+		Tooltip: ""
+	}
+
+	GamedevClubTileItem: {
+		DisplayName: Gamedev Club Tile Item
+		Tooltip: ""
+	}
+}
+
+Projectiles.GamedevClubSwordProjectile.DisplayName: Gamedev Club Sword Projectile

@@ -1,0 +1,3 @@
+displayName = Gamedev Club Mod
+author = Gamedev Club
+version = 0.1
